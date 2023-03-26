@@ -35,7 +35,7 @@ programa
           	}
           	
           	senao{
-          		escreva("O numero " + numero + " é primo\n)")
+          		escreva("O numero " + numero + " é primo\n")
           	}
           }
 	}
